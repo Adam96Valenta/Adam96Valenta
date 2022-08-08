@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Project Portfolio
+# My project portfolio
 
 ## [SpaceShip Titanic - Kaggle](https://github.com/Adam96Valenta/SpaceShip_Titanic) [08-2022]
 
